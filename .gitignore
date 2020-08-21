@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+failures.txt
+random.txt
+deploy.prototxt
+weights.caffemodel
+.DS_Store
+shape_predictor_68_face_landmarks.dat
+i3d/haarcascade_frontalface_default.xml
+results/i3d_peak/
+results/i3d_multiple_output_transfer_learn_6/
