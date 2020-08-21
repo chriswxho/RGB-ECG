@@ -1,4 +1,4 @@
-# 172Bproj
+# Using RGB Videos to Predict ECG
 
 https://github.com/vinuvish/Face-detection-with-OpenCV-and-deep-learning/tree/master/models for facereq.py
 
